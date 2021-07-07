@@ -1,2 +1,2 @@
-* My name is Martin Smetanka *
-* Hello World ! *
+Hello World ! 
+My name is Martin Smetanka 
